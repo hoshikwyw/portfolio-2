@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .landing-Bg-After::after {
+    content: "";
+    width: 1200px;
+    height: 1200px;
+    border-radius: 50%;
+    background: #f7f7ff;
+    border-bottom-color: #f7f7ff00;
+    border-left-color: #f7f7ff00;
+    right: -30%;
+    position: absolute;
+    z-index: -10;
+  }
+}

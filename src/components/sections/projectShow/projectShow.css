@@ -1,0 +1,11 @@
+.card:hover{
+        transform: translateY(-20px);
+}
+
+.go-up:hover{
+    transform: translateY(-3px);
+}
+
+.card-shadow{
+    box-shadow: rgba(248, 246, 246, 0.993) 0px 54px 55px,rgba(253, 251, 251, 0.836) 0px -12px 30px, rgba(243, 238, 238, 0.966) 0px 4px 6px, rgba(253, 249, 249, 0.952) 0px 12px 13px, rgba(253, 249, 249, 0.986) 0px -3px 5px;
+}

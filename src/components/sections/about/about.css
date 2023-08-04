@@ -1,0 +1,32 @@
+.background {
+    background-position: 50%;
+    background-repeat: repeat-x;
+    background-size: auto 6px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.icon:hover{
+    transform: scale(1.12);
+}
+
+/* .icon{
+    width: 100%;
+    height: 100%;
+}
+.icon div{
+    position: absolute;
+    left: 45%;
+    bottom: 0;
+}
+.icon div:nth-child(1){
+    transform: translateX(-100px);
+}
+.icon div:nth-child(2){
+    transform: translateX(-40px);
+}
+.icon-parent{
+    width: 310px;
+    height: 310px;
+    border-radius: 50%;
+} */
